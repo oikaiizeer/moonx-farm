@@ -1,5 +1,5 @@
 # MoonXFarm DEX
-
+body { background-color: #222; color: #fff; font-family: sans-serif; }
 **Next-Generation Decentralized Exchange Platform**
 
 MoonXFarm is a comprehensive decentralized exchange (DEX) platform featuring **Account Abstraction**, **AI-Powered Trading Assistant**, and **Cross-Chain Liquidity Aggregation**. Built with modern microservices architecture, the platform delivers enterprise-grade performance, security, and user experience for DeFi trading.
